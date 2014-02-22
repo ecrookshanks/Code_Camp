@@ -1,0 +1,10 @@
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\DI-IOC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\DI-IOC\bin\Debug\DI-IOC.exe
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\DI-IOC\bin\Debug\DI-IOC.pdb
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\DI-IOC\obj\x86\Debug\DI-IOC.exe
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\DI-IOC\obj\x86\Debug\DI-IOC.pdb
+F:\Code Camp\code\VS2012\DI-IOC\DI-IOC\obj\x86\Debug\DI-IOC.exe
+F:\Code Camp\code\VS2012\DI-IOC\DI-IOC\obj\x86\Debug\DI-IOC.pdb
+F:\Code Camp\code\VS2012\DI-IOC\DI-IOC\bin\Debug\DI-IOC.exe
+F:\Code Camp\code\VS2012\DI-IOC\DI-IOC\bin\Debug\DI-IOC.pdb
+F:\Code Camp\code\VS2012\DI-IOC\DI-IOC\obj\x86\Debug\OldFashionedWay.csprojResolveAssemblyReference.cache

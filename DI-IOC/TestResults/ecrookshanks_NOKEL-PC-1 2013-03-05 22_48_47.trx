@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0ad94c50-6c0d-4131-a2ae-7bc035b9d0c0" name="ecrookshanks@NOKEL-PC-1 2013-03-05 22:48:47" runUser="NOKEL-PC-1\ecrookshanks" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="65f6bbe3-6182-4971-a1e8-506cf787415c">
+    <Deployment runDeploymentRoot="ecrookshanks_NOKEL-PC-1 2013-03-05 22_48_47">
+      <DeploymentItem filename="C:\utils\Microsoft Unity Application Block 2.1\Bin\Microsoft.Practices.ServiceLocation.dll" />
+      <DeploymentItem filename="C:\utils\Microsoft Unity Application Block 2.1\Bin\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\UnityMVC_DepResolver\bin\UnityMVC_DepResolver.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-05T22:48:47.6611294-05:00" queuing="2013-03-05T22:48:49.4212300-05:00" start="2013-03-05T22:48:49.5502374-05:00" finish="2013-03-05T22:48:52.0743818-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\users\ecrookshanks\documents\business docs\presentations\code\di-ioc\unitymvc_depresolver.tests\bin\debug\unitymvc_depresolver.tests.dll" id="2422121d-2074-551c-e821-8aa0bb67d0dc">
+      <Execution id="534a45a9-b900-4c9c-8f5d-b550aeceb92c" />
+      <TestMethod codeBase="C:/Users/ecrookshanks/Documents/Business Docs/Presentations/Code/DI-IOC/UnityMVC_DepResolver.Tests/bin/Debug/UnityMVC_DepResolver.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnityMVC_DepResolver.Tests.Controllers.HomeControllerTest, UnityMVC_DepResolver.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="About" storage="c:\users\ecrookshanks\documents\business docs\presentations\code\di-ioc\unitymvc_depresolver.tests\bin\debug\unitymvc_depresolver.tests.dll" id="6c01b50a-85e6-575d-4373-795df8ac2267">
+      <Execution id="3bdcab14-df54-44ff-96df-ec0e5ee52fde" />
+      <TestMethod codeBase="C:/Users/ecrookshanks/Documents/Business Docs/Presentations/Code/DI-IOC/UnityMVC_DepResolver.Tests/bin/Debug/UnityMVC_DepResolver.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnityMVC_DepResolver.Tests.Controllers.HomeControllerTest, UnityMVC_DepResolver.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2422121d-2074-551c-e821-8aa0bb67d0dc" executionId="534a45a9-b900-4c9c-8f5d-b550aeceb92c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6c01b50a-85e6-575d-4373-795df8ac2267" executionId="3bdcab14-df54-44ff-96df-ec0e5ee52fde" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="534a45a9-b900-4c9c-8f5d-b550aeceb92c" testId="2422121d-2074-551c-e821-8aa0bb67d0dc" testName="Index" computerName="NOKEL-PC-1" duration="00:00:00.4075062" startTime="2013-03-05T22:48:49.6212415-05:00" endTime="2013-03-05T22:48:51.9053721-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="534a45a9-b900-4c9c-8f5d-b550aeceb92c">
+    </UnitTestResult>
+    <UnitTestResult executionId="3bdcab14-df54-44ff-96df-ec0e5ee52fde" testId="6c01b50a-85e6-575d-4373-795df8ac2267" testName="About" computerName="NOKEL-PC-1" duration="00:00:00.0007967" startTime="2013-03-05T22:48:51.9383740-05:00" endTime="2013-03-05T22:48:51.9463745-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3bdcab14-df54-44ff-96df-ec0e5ee52fde">
+    </UnitTestResult>
+  </Results>
+</TestRun>

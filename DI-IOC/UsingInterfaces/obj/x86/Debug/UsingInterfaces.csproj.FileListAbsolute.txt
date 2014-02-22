@@ -1,0 +1,10 @@
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\UsingInterfaces\bin\Debug\UsingInterfaces.exe
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\UsingInterfaces\bin\Debug\UsingInterfaces.pdb
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\UsingInterfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\UsingInterfaces\obj\x86\Debug\UsingInterfaces.exe
+C:\Users\ecrookshanks\Documents\Business Docs\Presentations\Code\DI-IOC\UsingInterfaces\obj\x86\Debug\UsingInterfaces.pdb
+F:\Code Camp\code\VS2012\DI-IOC\UsingInterfaces\obj\x86\Debug\UsingInterfaces.exe
+F:\Code Camp\code\VS2012\DI-IOC\UsingInterfaces\obj\x86\Debug\UsingInterfaces.pdb
+F:\Code Camp\code\VS2012\DI-IOC\UsingInterfaces\bin\Debug\UsingInterfaces.exe
+F:\Code Camp\code\VS2012\DI-IOC\UsingInterfaces\bin\Debug\UsingInterfaces.pdb
+F:\Code Camp\code\VS2012\DI-IOC\UsingInterfaces\obj\x86\Debug\UsingInterfaces.csprojResolveAssemblyReference.cache
